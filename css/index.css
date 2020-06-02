@@ -1,0 +1,48 @@
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.navitem {
+display: inline-block;
+padding: 20px;
+font-weight: 600;
+}
+
+.left {
+width: 29%;
+height: 2000px;
+float: left;
+}
+
+.left-top {
+    background-color: black;
+    height: 300px;
+}
+
+.left-bottom {
+    background-color: blue;
+}
+
+
+.right {
+    width: 70%;
+    height: 2000px;
+    float: left;
+    background-color: pink;
+
+}
+
+.main {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 70px;
+}
+
+.title {
+    text-decoration-color: #white;
+    text-align: bottom;
+}
