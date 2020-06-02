@@ -22,6 +22,7 @@ float: left;
 }
 
 .left-bottom {
+    background-color: rgb(210, 250, 255);
     height: 1650px;
     float: left;
     width: 100%;
